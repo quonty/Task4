@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Task3</string>
+    <string name="label_amount">Amount</string>
+
+    <string name="amount">$20000.00</string>
+
+    <string name="label_months">Months</string>
+
+    <string name="months">12</string>
+
+    <string name="label_downPayment">DownPayment</string>
+
+    <string name="downPayment">$2000.00</string>
+
+    <string name="label_rate">Interest Rate</string>
+
+    <string name="rate">2.5%</string>
+
+    <string name="label_weekly_payment">Weekly Payment</string>
+
+    <string name="weekly_payment">$1500.00</string>
+
+    <string name="label_total_payment">Total Payment</string>
+
+    <string name="total_payment">$32330.80</string>
+
+    <string name="modify_data">Modify Data</string>
+
+    <string name="four">4</string>
+
+    <string name="six">6</string>
+
+    <string name="twelve">12</string>
+
+    <string name="amountDecimal">20000.00</string>
+
+    <string name="rateDecimal">.025</string>
+
+    <string name="done">Done</string>
+
+</resources>
